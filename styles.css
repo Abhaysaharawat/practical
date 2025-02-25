@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -28,7 +28,7 @@ body {
   transform: scale(1.02);
 }
 
-/* Navbar */
+
 #navbar {
   display: flex;
   justify-content: space-between;
@@ -63,7 +63,7 @@ body {
   border-radius: 5px;
 }
 
-/* Profile Section */
+
 #profile-section {
   text-align: center;
   padding: 40px 20px;
@@ -83,7 +83,7 @@ body {
   border-color: #ffeb3b;
 }
 
-/* Interactive Titles */
+
 .container h1 {
   font-size: 2.5rem;
   color: #673ab7;
@@ -105,7 +105,7 @@ body {
   color: #4caf50;
 }
 
-/* Project Section */
+
 .project {
   margin-top: 20px;
   padding: 15px;
